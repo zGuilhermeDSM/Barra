@@ -1,0 +1,2 @@
+# Barra
+Senac barra tudo
